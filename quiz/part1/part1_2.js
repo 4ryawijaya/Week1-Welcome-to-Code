@@ -75,3 +75,5 @@ switch (bulan){
     default:
         console.log("Masukkan bulan dalam angka ke variabel.")
 }
+
+//test 2

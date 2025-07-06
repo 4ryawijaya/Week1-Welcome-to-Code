@@ -63,5 +63,5 @@ if (nama == "") {
 } else {
     console.log("Kamu jadi bot saja ya, peran yang kamu pilih tidak ada");
 }
-
+//test1
 
